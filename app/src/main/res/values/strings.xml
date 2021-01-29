@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="birthday_name">Dear Shawna,</string>
+    <string name="ending_name">From Benjamin</string>
+    <string name="background">background</string>
+    <string name="message">May God Bless You!</string>
+    <string name="wish">Happy Birthday!</string>
+    <string name="button">bobo</string>
+    <string name="picture">picture</string>
+</resources>
